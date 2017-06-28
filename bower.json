@@ -1,0 +1,23 @@
+{
+  "name": "purescript-codec-ejson",
+  "homepage": "https://github.com/slamdata/purescript-codec-ejson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/slamdata/purescript-codec-ejson.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-codec": "^2.0.0",
+    "purescript-generics-rep": "^5.1.0",
+    "purescript-ejson": "^9.0.0"
+  }
+}
